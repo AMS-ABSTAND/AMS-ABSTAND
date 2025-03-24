@@ -39,7 +39,7 @@
 
 <br>
 
-## 📫 Connect with me
+
 
 <div align="center">
   <a href="https://github.com/AMS-ABSTAND" target="_blank">
