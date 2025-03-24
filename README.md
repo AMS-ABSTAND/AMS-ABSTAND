@@ -2,9 +2,7 @@
   <img src="matrix-header.svg" width="100%" alt="Matrix Header">
 </div>
 
-<div align="center" style="margin-top:-20px;">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Web+Developer;Coding+Enthusiast;Matrix+Follower)](https://git.io/typing-svg)
-</div>
+
 
 <table border="0" align="center">
 <tr border="0">
