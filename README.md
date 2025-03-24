@@ -1,39 +1,61 @@
 <div align="center">
-  <img src="./matrix-background.svg" width="800" height="400" alt="Matrix Style Animation">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=25&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;Coder;Technology+Enthusiast)](https://git.io/typing-svg)
+  <img src="matrix-header.svg" width="100%" alt="Matrix Header">
 </div>
 
-<p align="left">
-</p>
+<div align="center" style="margin-top:-20px;">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Web+Developer;Coding+Enthusiast;Matrix+Follower)](https://git.io/typing-svg)
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  ## 📊 GitHub Stats
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AMS-ABSTAND&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AMS-ABSTAND&theme=chartreuse-dark&hide_border=false" /> 
+</td>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMS-ABSTAND&show_icons=true&locale=en&layout=compact&theme=dark" alt="AMS-ABSTAND" />
-</p>
+<td width="50%" align="center">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMS-ABSTAND&show_icons=true&locale=en&theme=dark" alt="AMS-ABSTAND" />
-</p>
+  ## 🛠️ Languages and Tools
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMS-ABSTAND&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AMS-ABSTAND&label=Profile%20views&color=0e75b6&style=flat" alt="AMS-ABSTAND" />
-</p>
+<br>
+
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack</h2>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python&theme=dark&perline=5" />
+    </a>
+  </p>
+</div>
+
+<br>
+
+## 📫 Connect with me
+
+<div align="center">
+  <a href="https://github.com/AMS-ABSTAND" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=green" alt=github style="margin-bottom: 5px;" />
+  </a>
+  <!-- Weitere Social Media Links hier -->
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AMS-ABSTAND&label=Profile%20Matrix%20Views&color=00ff00&style=for-the-badge" alt="AMS-ABSTAND" /> 
+</div>
+
+<div align="center">
+  <img src="matrix-footer.svg" width="100%" alt="Matrix Footer">
+</div>
