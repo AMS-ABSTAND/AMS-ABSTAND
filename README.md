@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm ABSTAND</h1>
+<div align="center">
+  <img src="./matrix-background.svg" width="800" height="400" alt="Matrix Style Animation">
+  
+  # AMS-ABSTAND
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&size=25&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=Web+Developer;Coder;Technology+Enthusiast)](https://git.io/typing-svg)
+</div>
 
+## 🔧 Technologies & Tools
+...
 <p align="left">
 </p>
 
