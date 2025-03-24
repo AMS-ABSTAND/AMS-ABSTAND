@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABSTAND</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=schulle334&label=Profile%20views&color=0e75b6&style=flat" alt="schulle334" />
+  <img src="https://komarev.com/ghpvc/?username=AMS-ABSTAND&label=Profile%20views&color=0e75b6&style=flat" alt="AMS-ABSTAND" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,9 +27,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schulle334&show_icons=true&locale=en&layout=compact&theme=dark" alt="schulle334" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AMS-ABSTAND&show_icons=true&locale=en&layout=compact&theme=dark" alt="AMS-ABSTAND" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=schulle334&show_icons=true&locale=en&theme=dark" alt="schulle334" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMS-ABSTAND&show_icons=true&locale=en&theme=dark" alt="AMS-ABSTAND" />
 </p>
